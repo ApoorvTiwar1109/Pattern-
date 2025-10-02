@@ -34,9 +34,10 @@ int main(){
     }
 
     printf("\n\n");
-    int y;
+    int z;
     printf("\nEnter 0 to exit the program : ");
-    scanf("%d", &y);
+    scanf("%d", &z);
 
     return 0;  
 }
+
